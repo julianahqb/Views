@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="tel">Telefone</string>
+    <string name="periodo">Periodo</string>
+    <string name="manha">Manha</string>
+    <string name="tarde">Tarde</string>
+    <string name="noite">Noite</string>
+    <string name="whats">Whatsapp</string>
+    <string name="pref">Preferencias</string>
+    <string name="internet">Internet</string>
+    <string name="tv">TV a cabo</string>
+    <string name="streaming">Streaming</string>
+    <string name="cancelar">Limpar</string>
+    <string name="ok">Exibir</string>
+    <string name="on">Sim</string>
+    <string name="off">Nao</string>
+
+</resources>
